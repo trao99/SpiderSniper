@@ -1,8 +1,10 @@
 # SpiderSniper
 
-A visual-based game where you can play with your computer and android phone at the same time.
+A user-interactive game that links one's Android device and laptop; an app was created in Android studio to be linked to a Flash game created with Adobe Animate.
+
+
 
 #### Contributors
-Anthony Niemec <br>
+Anthony Niemiec <br>
 Trishank Rao  <br>
 Bao Dau
